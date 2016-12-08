@@ -1,0 +1,29 @@
+{
+  "name": "proxyfull",
+  "version": "1.0.0",
+  "description": "ECMAScript 2015 Proxy with deep property path return and logging",
+  "main": "src/proxyfull.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hifaraz@github.com/HiFaraz/proxyfull.git"
+  },
+  "keywords": [
+    "es6",
+    "es2015",
+    "proxy",
+    "deep",
+    "progressive",
+    "polyfill",
+    "getter",
+    "setter"
+  ],
+  "author": "Faraz Syed <hello@farazsyed.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HiFaraz/proxyfull/issues"
+  },
+  "homepage": "https://github.com/HiFaraz/proxyfull#readme"
+}
