@@ -1,5 +1,7 @@
 # Proxyfull
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/HiFaraz/proxyfull.svg)](https://greenkeeper.io/)
+
 Proxyfull allows you to access the exact/deep property path when using Proxy objects. It does this by extending the native Proxy object while respecting the ECMAScript 2015 Proxy specification.
 
 An example:
